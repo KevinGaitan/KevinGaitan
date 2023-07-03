@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 👨‍💻 All of my projects are available at [Porfolio link](http://www.google.com)
-
 - 💬 Ask me about **Spring Framework, .Net Core, Android Development**
 
 - 📫 How to reach me **kevgaitan24@gmail.com**
